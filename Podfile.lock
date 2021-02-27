@@ -1,0 +1,16 @@
+PODS:
+  - FFPopup (1.1.4)
+
+DEPENDENCIES:
+  - FFPopup
+
+SPEC REPOS:
+  trunk:
+    - FFPopup
+
+SPEC CHECKSUMS:
+  FFPopup: 3bec8070665b892d8f54f2acaca447fdccc7f30b
+
+PODFILE CHECKSUM: 3b3206e0a214ffe12e27e1529e2b0b4daf79e4ad
+
+COCOAPODS: 1.10.0
