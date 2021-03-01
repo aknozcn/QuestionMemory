@@ -2,7 +2,7 @@
 
 Sorular             |  Yeni Soru Ekle
 :-------------------------:|:-------------------------:
-![](http://i.epvpimg.com/XCSlfab.png)  |  ![](http://i.epvpimg.com/MjRBgab.png)
+![](https://i.imgur.com/SIx75hS.png)  |  ![]([img]https://i.imgur.com/8IvSf5s.png)
 
 ## Hakkında
 Bu proje YKS öğrencilerinin soru tekrarını daha kolay yapabilmesi için tasarlanmıştır. 
